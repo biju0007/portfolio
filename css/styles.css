@@ -176,7 +176,9 @@ footer{
 	.temps{
 		display:none;
 	}
-	
+.about{
+  display: block;
+}
 }
 
 
