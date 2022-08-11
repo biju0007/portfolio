@@ -61,6 +61,10 @@ nav ul li:hover{
 .temp:hover{
   transform: scale(1.2);
 }
+
+.temps:hover{
+transform: scale(1.2)
+}
 .lavi{
     position: relative;
     padding-top: 8%;
@@ -169,6 +173,9 @@ li a:hover:not(.active) {
 footer{
   font-size: small;
 }
+	.temps{
+		display:none;
+	}
 
 }
 
